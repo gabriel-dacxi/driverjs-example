@@ -1,0 +1,16 @@
+{
+  "name": "driverjs-example",
+  "version": "1.0.0",
+  "description": "Driver.js live demonstration",
+  "scripts": {
+    "start": "live-server"
+  },
+  "keywords": [
+    "Driver.js"
+  ],
+  "author": "Gabriel Santos Cardoso",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
